@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.png" alt="SecondaryFocuser-NINA" width="100%"></p>
+
 # Secondary Focuser — N.I.N.A. plugin
 
 Autofocus for the **guide camera** (OAG camera or guide-scope camera) with a **second focuser**, while
